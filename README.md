@@ -127,12 +127,8 @@ All arithmetic operations work on 8‑bit values, with the ALU internally handli
 ## 👤 Author
 
 **Akash Biyani**  
-*University of Southampton*  
-Project completed as part of the ELEC6234 coursework.
+*MSc Embedded Computing Systems* 
 
 ---
 
-## 📄 License
-
-This project is open‑source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
 
